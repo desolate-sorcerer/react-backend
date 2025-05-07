@@ -18,7 +18,8 @@
     "express": "^4.21.2",
     "express-session": "^1.18.1",
     "mongoose": "^8.13.1",
-    "nodemon": "^3.1.9"
+    "nodemon": "^3.1.9",
+    "socket.io": "^4.8.1"
   },
   "proxy": "http://localhost:5000"
 }
